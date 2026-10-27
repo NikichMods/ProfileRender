@@ -1,0 +1,29 @@
+{
+  "importedAt": "2026-10-26T16:57:56.062888+00:00",
+  "version": "0.1.0",
+  "files": [
+    {
+      "path": "z310_ProfileRender_2x_P.pak",
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "component": "ProfileRender",
+      "acceptance": "User accepted in game; proprietary-derived payload stays local"
+    },
+    {
+      "path": "z310_ProfileRender_2x_P.ucas",
+      "sha256": "088b83bffa6ad620bc43944f07e93bcab639d6c726836c47c3dd2fa4032e4d3c",
+      "component": "ProfileRender",
+      "acceptance": "User accepted in game; proprietary-derived payload stays local"
+    },
+    {
+      "path": "z310_ProfileRender_2x_P.utoc",
+      "sha256": "49e4e4d2acda940ba70cfa3552d4c87a0ca1e2d599c107b9065adbe960284bd7",
+      "component": "ProfileRender",
+      "acceptance": "User accepted in game; proprietary-derived payload stays local"
+    }
+  ],
+  "gameChanged": false,
+  "gameLaunched": false,
+  "knownIssue": "Boss has both overhead and main health bars; next task not implemented",
+  "scope": "Historical 0.1.0 initial import only; current accepted/candidate source identity is owned by docs/STATUS.md. Paths refer to original monorepo, not this root.",
+  "source": "https://github.com/NikichMods/AsterigosMods/blob/0fb78e76c24306ade338b85f63cb5f2dbfa7f9e7/docs/BASELINE.json"
+}

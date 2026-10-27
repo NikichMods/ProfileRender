@@ -12,3 +12,7 @@ Status: accepted local behavior, no packaged public release yet. Target: Steam1.
 See local source/recipe files here; proprietary game assets are excluded. No complete portable asset packaging pipeline is claimed.
 
 Original code is covered by repository MPL-2.0; see root LICENSING.md.
+
+## Independent repository
+
+[Migration and exact source provenance](docs/MIGRATION.md) · [Shared Asterigos Research](https://github.com/NikichMods/Asterigos-Research/blob/main/docs/RESEARCH_INDEX.md) · [Local external dependencies](docs/LOCAL_DEPENDENCIES.md). Original release URLs and frozen artifacts remain in AsterigosMods.

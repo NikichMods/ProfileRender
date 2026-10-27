@@ -1,0 +1,50 @@
+{
+  "originalRepository": "NikichMods/AsterigosMods",
+  "originalCommit": "0fb78e76c24306ade338b85f63cb5f2dbfa7f9e7",
+  "originalPrefix": "ProfileRender/",
+  "extractedCommit": "40c64735f7dca2d746fdcba605057092648215b0",
+  "extractedTree": "6e7818852989cc33c2d64f488e2b6ae845f84dd5",
+  "branch": "main",
+  "files": {
+    "AGENTS.md": {
+      "original_path": "ProfileRender/AGENTS.md",
+      "original_blob": "7e4ae8fe9288679d080fa06245904d37c3071868",
+      "sha256": "621722c3d1e3b5e716d1c32defe5048fdb67dbe87698f0717b5ee4a7d39f8069"
+    },
+    "LICENSE-NOTICE": {
+      "original_path": "ProfileRender/LICENSE-NOTICE",
+      "original_blob": "339c645985ab351372ffe71e956e22f46bbde645",
+      "sha256": "92b915ba613977889d175ff08765381c5509dfa8f4dd4d15a68e3fe1b9c9f808"
+    },
+    "README.md": {
+      "original_path": "ProfileRender/README.md",
+      "original_blob": "3cdb316ab5e867ac9c668f16e16e9ce5143367a6",
+      "sha256": "32e0efab1d2bf1b5c337aea4e460ee098a2e7a22a7b819f9d5b5f4721fad80ce"
+    },
+    "VERSION": {
+      "original_path": "ProfileRender/VERSION",
+      "original_blob": "6e8bf73aa550d4c57f6f35830f1bcdc7a4a62f38",
+      "sha256": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67"
+    },
+    "docs/REQUIREMENTS.md": {
+      "original_path": "ProfileRender/docs/REQUIREMENTS.md",
+      "original_blob": "3d94743b468e7a49399009d9032fbdb1a3c8cac7",
+      "sha256": "b9b3477d6bad2df6dabf1bfc1664acda39ea97d8b8d03f5d29d689a571006247"
+    },
+    "docs/STATUS.md": {
+      "original_path": "ProfileRender/docs/STATUS.md",
+      "original_blob": "78797daf21f9165ed79ec98182b2b76eb5ee344b",
+      "sha256": "b093439c3641a51bebcbd6fef8cc3ce258194fee65e9cbbd27e3892951ce3b66"
+    },
+    "docs/VERIFIED_RUNTIME.md": {
+      "original_path": "ProfileRender/docs/VERIFIED_RUNTIME.md",
+      "original_blob": "a5c204b2958851e0556baea0ea916b91832c8698",
+      "sha256": "18a96a09380b6ffca7025f2d5b43d727083a15257864fcf530937e1c1b321728"
+    },
+    "recipe.json": {
+      "original_path": "ProfileRender/recipe.json",
+      "original_blob": "47c2896a6fc6291d5237d9dabcb3f6ecf9cf5221",
+      "sha256": "c794c3bc86346803a0b53bcdba404126802ae9c63d3a47af694e9af7b13df3d2"
+    }
+  }
+}
